@@ -1,0 +1,2 @@
+bot_description:gazebo_envs:motion_plan
+-DCATKIN_DEVEL_PREFIX=/home/divyanshi/mrt_ws/devel -DCMAKE_INSTALL_PREFIX=/home/divyanshi/mrt_ws/install -G Unix Makefiles
