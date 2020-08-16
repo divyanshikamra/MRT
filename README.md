@@ -2,10 +2,10 @@
 
 This workspace contains a gazebo environment and a bot which can be used for testing path planning algorithms. All of this has been tested and built on ROS melodic 
 
-## To use this on your system. You must have the following:
--ROS
--Gazebo
--Various dependencies of ROS such as Rviz, Robot State Publisher. (if you have installed full desktop version of ROS, you already have them by default)
+## To use this on your system, you must have the following:
+- ROS
+- Gazebo
+- Various dependencies of ROS such as Rviz, Robot State Publisher. (if you have installed full desktop version of ROS, you already have them by default)
 
 ## To run the files on your system:
 1. Clone the workspace.
